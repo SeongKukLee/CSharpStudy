@@ -15,7 +15,7 @@ public class DataTypeStudy : MonoBehaviour
     float number2 = 35.5f;      // 4Byte, 실수형 자료형
     double number3 = 35.5;       // 8Byte(64bit), 실수형 자료형 
     char data = 'C';        // 1Byte, 1개의 문자를 저장하는 자료형 
-    string naem = "Henry";           // 문자열, 문자의 크기에 따라 크기가 변하는 자료형 
+    string name = "Henry";           // 문자열, 문자의 크기에 따라 크기가 변하는 자료형 
 
     int number4; // 값을 할당하지 않는 경우 자동으로 0으로 값을 초기화 
 
